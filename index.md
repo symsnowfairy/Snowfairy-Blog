@@ -1,3 +1,5 @@
 ## Welcome to GitHub Pages of My Blog
 
 # Learning Note
+
+我在尝试中文输入。
