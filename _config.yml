@@ -4,7 +4,7 @@ description: Feel free to bookmark this to keep an eye on my blog updates
 
 plugins:
   - jekyll-relative-links
-relative_links:
+relative_links: https://github.com/symsnowfairy/Snowfairy-Blog
   enabled: true
   collections: true
 include:
@@ -16,3 +16,4 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+  -Learning_Note.md
