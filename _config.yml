@@ -17,3 +17,11 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
   -Learning_Note.md
+  
+book_filename: "Snowfairy Blog"
+chapter_name: "Chapter "
+repo: https://github.com/symsnowfairy/Snowfairy-Blog
+output_dir: docs
+rmd_files: ["index.Rmd", "Learning-Note.Rmd", "02-Getting-Unix.Rmd", "03-Command-Line-Basics.Rmd", "04-Working-with-Unix.Rmd", "05-Bash-Programming.Rmd", "06-Git-and-GitHub.Rmd", "07-Nephology.Rmd", "08-Start-Building.Rmd"]
+clean: [packages.bib, bookdown.bbl]
+new_session: yes
